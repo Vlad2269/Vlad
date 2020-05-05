@@ -8,11 +8,11 @@ For those installing MATLAB for the first time, please read all of the steps pro
 
 ## Table of Contents  
 
-* Verifying for a school liscence
+* Verifying your school liscence
 * Creating a Mathworks account
 * Download MATLAB 
 
-### Verifying for a school liscence
+### Verifying your school liscence
 To get things started, you first need to open up any internet browser to get to the MATLAB home page. Since you are a Waterloo student
 you do not have to actually purchase a MATLAB liscence since the school already has one. Click "Check for access" shown below:
 
