@@ -38,8 +38,9 @@ You should be prompted to the page above afterwards.
 Press "Download Installer" and select the most recent version of MATLAB by pressing the big blue "R2020a" button.
 ![BIG_BLUE_BUTTON](https://github.com/Vlad2269/Vlad/blob/master/BIG_BLUE_BUTTON.png)
 
+Please Select the Operator your current computer is using.
 ![OPERATOR](https://github.com/Vlad2269/Vlad/blob/master/SELECTING_operator.png)
->Please select your computer opertor that you currently have.
+
 
 Afterwards, sit tight and watch your installer being downloaded!
 
@@ -54,8 +55,7 @@ We're almost there, Enter your Mathworks info and accept terms and conditions.
 
 Select the MATLAB Liscence that is on **your** screen and confirm your selection.
 ![SELECT](https://github.com/Vlad2269/Vlad/blob/master/SELECT%20LISCENCE.png)
-
->You may pick a specific file destination after this point, however I would just leave the file destination that is already suggested.
+>You may pick a specific file destination after this point, however it would be best if you just leave the file destination that is already suggested.
 
 For license selection, pick MATLAB and Simulink as shown below and hit next.
 
