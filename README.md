@@ -22,7 +22,9 @@ Enter in the name of your school, school email along with other information show
 
 ![school_info](https://github.com/Vlad2269/Vlad/blob/master/ENTER_INFO_FOR_MATLAB.png)
 
-Afterwards you should prompted to the following screen, along with an email in your outlook congratulating your approval.
+Afterwards you should prompted to the following screen, along with an email in your outlook congratulating your approval:
+
+![email_sent](https://github.com/Vlad2269/Vlad/blob/master/EMAIL_FROM_MATLAB.png)
 
 ![email](https://github.com/Vlad2269/Vlad/blob/master/CLICK_THE_LINK.PNG)
 
