@@ -28,6 +28,7 @@ Afterwards you should prompted to the following screen, along with an email in y
 
 ### Creating a Mathworks account 
 To actually use MATLAB you first need to create a Mathworks account. Click the "Mathworks Account" link provided in your **email** and press "create account" located near the bottom of the page:
+
 ![create account link](https://github.com/Vlad2269/Vlad/blob/master/CREATE_MATHWORKS_ACCOUNT_PT2.png)
 >Enter in the necessary information that applies to you.
 
