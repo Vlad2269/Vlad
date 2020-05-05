@@ -21,10 +21,10 @@ Enter in the name of your school, school email along with other information show
 
 
 Afterwards you should prompted to the following screen, along with an email in your outlook congratulating your approval.
+![email](https://github.com/Vlad2269/Vlad/blob/master/CLICK_THE_LINK.PNG)
 
 ### Creating a Mathworks account 
-To actually use MATLAB you first need to create a Mathworks account. Click the link provided in your **email** and "press create account"
-located near the bottom of the page:
+To actually use MATLAB you first need to create a Mathworks account. Click the link provided in your **email** and "press create account" located near the bottom of the page:
 
 >Enter in the necessary information that applies to you.
 ### Download MATLAB
